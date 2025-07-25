@@ -117,4 +117,4 @@ ng serve
 
 ## Votre environnement est prêt !
 
-Vous pouvez maintenant commencer à développer et tester votre plateforme de gestion scolaire 🚀
+Vous pouvez maintenant commencer à développer et tester votre plateforme de gestion scolaire
